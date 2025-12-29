@@ -1,8 +1,8 @@
 {
+ "2027": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2027,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
@@ -103,10 +103,10 @@
   }
 }
 {
+"2028": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2028,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
@@ -207,10 +207,10 @@
   }
 }
 {
+"2029": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2029,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
@@ -311,10 +311,10 @@
   }
 }
 {
+"2030": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2030,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
@@ -415,10 +415,10 @@
   }
 }
 {
+"2031": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2031,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
@@ -519,10 +519,10 @@
   }
 }
 {
+"2032": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2032,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
@@ -623,10 +623,10 @@
   }
 }
 {
+"2033": {
   "anexos": {
     "I": {
       "descricao": "Comércio",
-      "ano": 2033,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
