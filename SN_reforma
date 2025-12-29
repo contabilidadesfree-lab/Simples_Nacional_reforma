@@ -23,7 +23,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2027,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -44,7 +43,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2027,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -65,7 +63,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2027,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -86,7 +83,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2027,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
@@ -131,7 +127,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2028,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -152,7 +147,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2028,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -173,7 +167,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2028,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -194,7 +187,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2028,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
@@ -239,7 +231,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2029,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -260,7 +251,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2029,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -281,7 +271,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2029,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -302,7 +291,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2029,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
@@ -347,7 +335,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2030,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -368,7 +355,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2030,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -389,7 +375,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2030,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -410,7 +395,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2030,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
@@ -455,7 +439,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2031,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -476,7 +459,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2031,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -497,7 +479,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2031,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -518,7 +499,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2031,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
@@ -563,7 +543,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2032,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -584,7 +563,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2032,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -605,7 +583,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2032,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -626,7 +603,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2032,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
@@ -671,7 +647,6 @@
 
     "II": {
       "descricao": "Indústria",
-      "ano": 2033,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
@@ -692,7 +667,6 @@
 
     "III": {
       "descricao": "Serviços",
-      "ano": 2033,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
@@ -713,7 +687,6 @@
 
     "IV": {
       "descricao": "Serviços",
-      "ano": 2033,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
@@ -734,7 +707,6 @@
 
     "V": {
       "descricao": "Serviços",
-      "ano": 2033,
       "faixas": [
         { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
         { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
