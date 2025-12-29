@@ -1,0 +1,756 @@
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2027,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 18.9, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 34.0, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 34.0, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 33.5, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 33.5, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 33.5, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 13.58, "CSLL": 10.06, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.34, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.02, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2027,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 29.9, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 8.53, "CSLL": 7.53, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.59, "ISS": 0.0, "IPI": 35.13, "ICMS": 0.0, "CBS": 25.22, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2027,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 32.9, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 33.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.43, "IBS": 0.17 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 32.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.91, "IBS": 0.19 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 32.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.42, "IBS": 0.19 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 32.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.42, "IBS": 0.19 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 33.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.43, "IBS": 0.17 },
+        { "IRPJ": 35.09, "CSLL": 15.04, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.58, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.29, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2027,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 32.9, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 44.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.26, "IBS": 0.24 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.73, "IBS": 0.27 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.74, "IBS": 0.26 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.75, "IBS": 0.25 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.76, "IBS": 0.24 },
+        { "IRPJ": 53.71, "CSLL": 21.59, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.70, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2027,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.4, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 14.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.96, "IBS": 0.19 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 17.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.96, "IBS": 0.19 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 19.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.95, "IBS": 0.20 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 21.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.94, "IBS": 0.21 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 23.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.96, "IBS": 0.19 },
+        { "IRPJ": 35.1, "CSLL": 15.54, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.58, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.78, "IBS": 0.0 }
+      ]
+    }
+  }
+}
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2028,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 18.9, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 34.0, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 34.0, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 33.5, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 33.5, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 33.5, "CBS": 15.33, "IBS": 0.17 },
+        { "IRPJ": 13.58, "CSLL": 10.06, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.34, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.02, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2028,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 29.9, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 32.0, "CBS": 13.85, "IBS": 0.15 },
+        { "IRPJ": 8.53, "CSLL": 7.53, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.59, "ISS": 0.0, "IPI": 35.13, "ICMS": 0.0, "CBS": 25.22, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2028,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 32.9, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 33.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.43, "IBS": 0.17 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 32.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.91, "IBS": 0.19 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 32.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.42, "IBS": 0.19 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 32.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.42, "IBS": 0.19 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 33.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.43, "IBS": 0.17 },
+        { "IRPJ": 35.09, "CSLL": 15.04, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.58, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.29, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2028,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 32.9, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 44.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.26, "IBS": 0.24 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.73, "IBS": 0.27 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.74, "IBS": 0.26 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.75, "IBS": 0.25 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.76, "IBS": 0.24 },
+        { "IRPJ": 53.71, "CSLL": 21.59, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.70, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2028,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.4, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 14.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.96, "IBS": 0.19 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 17.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.96, "IBS": 0.19 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 19.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.95, "IBS": 0.20 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 21.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.94, "IBS": 0.21 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 23.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.96, "IBS": 0.19 },
+        { "IRPJ": 35.1, "CSLL": 15.54, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.58, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.78, "IBS": 0.0 }
+      ]
+    }
+  }
+}
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2029,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 19.0, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 30.6, "CBS": 15.5, "IBS": 3.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 30.6, "CBS": 15.5, "IBS": 3.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 30.15, "CBS": 15.5, "IBS": 3.35 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 30.15, "CBS": 15.5, "IBS": 3.35 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 30.15, "CBS": 15.5, "IBS": 3.35 },
+        { "IRPJ": 13.5, "CSLL": 10.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.1, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.4, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2029,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.0, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 28.8, "CBS": 14.0, "IBS": 3.2 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 28.8, "CBS": 14.0, "IBS": 3.2 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 28.8, "CBS": 14.0, "IBS": 3.2 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 28.8, "CBS": 14.0, "IBS": 3.2 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 28.8, "CBS": 14.0, "IBS": 3.2 },
+        { "IRPJ": 8.5, "CSLL": 7.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.5, "ISS": 0.0, "IPI": 35.0, "ICMS": 0.0, "CBS": 25.5, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2029,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 30.15, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 3.35 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 28.8, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.1, "IBS": 3.2 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 29.25, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 3.25 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 29.25, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 3.25 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 30.15, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 3.35 },
+        { "IRPJ": 35.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.5, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2029,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 40.05, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.5, "IBS": 4.45 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 36.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 4.0 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 36.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.0, "IBS": 4.0 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 36.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.0, "IBS": 4.0 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 36.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.0, "IBS": 4.0 },
+        { "IRPJ": 53.5, "CSLL": 21.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2029,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.5, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 12.6, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 1.4 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 15.3, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 1.7 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 17.1, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.15, "IBS": 1.9 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 18.9, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.15, "IBS": 2.1 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 21.15, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 2.35 },
+        { "IRPJ": 35.0, "CSLL": 15.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 20.0, "IBS": 0.0 }
+      ]
+    }
+  }
+}
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2030,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 19.0, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 27.2, "CBS": 15.5, "IBS": 6.8 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 27.2, "CBS": 15.5, "IBS": 6.8 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 26.8, "CBS": 15.5, "IBS": 6.7 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 26.8, "CBS": 15.5, "IBS": 6.7 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 26.8, "CBS": 15.5, "IBS": 6.7 },
+        { "IRPJ": 13.5, "CSLL": 10.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.1, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.4, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2030,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.0, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 25.6, "CBS": 14.0, "IBS": 6.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 25.6, "CBS": 14.0, "IBS": 6.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 25.6, "CBS": 14.0, "IBS": 6.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 25.6, "CBS": 14.0, "IBS": 6.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 25.6, "CBS": 14.0, "IBS": 6.4 },
+        { "IRPJ": 8.5, "CSLL": 7.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.5, "ISS": 0.0, "IPI": 35.0, "ICMS": 0.0, "CBS": 25.5, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2030,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 26.8, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 6.7 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 25.6, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.1, "IBS": 6.4 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 26.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 6.5 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 26.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 6.5 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 26.8, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 6.7 },
+        { "IRPJ": 35.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.5, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2030,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 35.6, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.5, "IBS": 8.9 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 32.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 8.0 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 32.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.0, "IBS": 8.0 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 32.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.0, "IBS": 8.0 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 32.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.0, "IBS": 8.0 },
+        { "IRPJ": 53.5, "CSLL": 21.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2030,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.5, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 11.2, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 2.8 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 13.6, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 3.4 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 15.2, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.15, "IBS": 3.8 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 16.8, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.15, "IBS": 4.2 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 18.8, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 4.7 },
+        { "IRPJ": 35.0, "CSLL": 15.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 20.0, "IBS": 0.0 }
+      ]
+    }
+  }
+}
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2031,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 19.0, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 23.8, "CBS": 15.5, "IBS": 10.2 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 23.8, "CBS": 15.5, "IBS": 10.2 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 23.45, "CBS": 15.5, "IBS": 10.05 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 23.45, "CBS": 15.5, "IBS": 10.05 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 23.45, "CBS": 15.5, "IBS": 10.05 },
+        { "IRPJ": 13.5, "CSLL": 10.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.1, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.4, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2031,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.0, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 22.4, "CBS": 14.0, "IBS": 9.6 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 22.4, "CBS": 14.0, "IBS": 9.6 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 22.4, "CBS": 14.0, "IBS": 9.6 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 22.4, "CBS": 14.0, "IBS": 9.6 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 22.4, "CBS": 14.0, "IBS": 9.6 },
+        { "IRPJ": 8.5, "CSLL": 7.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.5, "ISS": 0.0, "IPI": 35.0, "ICMS": 0.0, "CBS": 25.5, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2031,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 23.45, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 10.05 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 22.4, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.1, "IBS": 9.6 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 22.75, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 9.75 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 22.75, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 9.75 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 23.45, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 10.05 },
+        { "IRPJ": 35.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.5, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2031,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 31.15, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.5, "IBS": 13.35 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 28.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 12.0 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 28.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.0, "IBS": 12.0 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 28.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.0, "IBS": 12.0 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 28.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.0, "IBS": 12.0 },
+        { "IRPJ": 53.5, "CSLL": 21.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2031,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.5, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 9.8, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 4.2 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 11.9, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 5.1 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 13.3, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.15, "IBS": 5.7 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 14.7, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.15, "IBS": 6.3 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 16.45, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 7.05 },
+        { "IRPJ": 35.0, "CSLL": 15.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 20.0, "IBS": 0.0 }
+      ]
+    }
+  }
+}
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2032,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 19.0, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 20.4, "CBS": 15.5, "IBS": 13.6 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 20.4, "CBS": 15.5, "IBS": 13.6 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 20.1, "CBS": 15.5, "IBS": 13.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 20.1, "CBS": 15.5, "IBS": 13.4 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 20.1, "CBS": 15.5, "IBS": 13.4 },
+        { "IRPJ": 13.5, "CSLL": 10.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.1, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.4, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2032,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.0, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 19.2, "CBS": 14.0, "IBS": 12.8 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 19.2, "CBS": 14.0, "IBS": 12.8 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 19.2, "CBS": 14.0, "IBS": 12.8 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 19.2, "CBS": 14.0, "IBS": 12.8 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 19.2, "CBS": 14.0, "IBS": 12.8 },
+        { "IRPJ": 8.5, "CSLL": 7.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.5, "ISS": 0.0, "IPI": 35.0, "ICMS": 0.0, "CBS": 25.5, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2032,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 20.1, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 13.4 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 19.2, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.1, "IBS": 12.8 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 19.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 13.0 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 19.5, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 13.0 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 20.1, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 13.4 },
+        { "IRPJ": 35.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.5, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2032,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 26.7, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.5, "IBS": 17.8 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 24.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 16.0 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 24.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.0, "IBS": 16.0 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 24.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.0, "IBS": 16.0 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 24.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.0, "IBS": 16.0 },
+        { "IRPJ": 53.5, "CSLL": 21.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2032,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.5, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 8.4, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 5.6 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 10.2, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 6.8 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 11.4, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.15, "IBS": 7.6 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 12.6, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.15, "IBS": 8.4 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 14.1, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 9.4 },
+        { "IRPJ": 35.0, "CSLL": 15.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 20.0, "IBS": 0.0 }
+      ]
+    }
+  }
+}
+{
+  "anexos": {
+    "I": {
+      "descricao": "Comércio",
+      "ano": 2033,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.3, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 9.5, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 10.7, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.3, "parcela_deduzir": 87300 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 19.0, "parcela_deduzir": 378000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.5, "IBS": 34.0 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 41.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.5, "IBS": 34.0 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.5, "IBS": 33.5 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.5, "IBS": 33.5 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.5, "IBS": 33.5 },
+        { "IRPJ": 13.5, "CSLL": 10.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 42.1, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 34.4, "IBS": 0.0 }
+      ]
+    },
+
+    "II": {
+      "descricao": "Indústria",
+      "ano": 2033,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 7.8, "parcela_deduzir": 5940 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.0, "parcela_deduzir": 13860 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 11.2, "parcela_deduzir": 22500 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 14.7, "parcela_deduzir": 85500 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.0, "parcela_deduzir": 720000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 0.0, "CBS": 14.0, "IBS": 32.0 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 0.0, "CBS": 14.0, "IBS": 32.0 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 0.0, "CBS": 14.0, "IBS": 32.0 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 0.0, "CBS": 14.0, "IBS": 32.0 },
+        { "IRPJ": 5.5, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 37.5, "ISS": 0.0, "IPI": 7.5, "ICMS": 0.0, "CBS": 14.0, "IBS": 32.0 },
+        { "IRPJ": 8.5, "CSLL": 7.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.5, "ISS": 0.0, "IPI": 35.0, "ICMS": 0.0, "CBS": 25.5, "IBS": 0.0 }
+      ]
+    },
+
+    "III": {
+      "descricao": "Serviços",
+      "ano": 2033,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 6.0, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 11.2, "parcela_deduzir": 9360 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 13.5, "parcela_deduzir": 17640 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 16.0, "parcela_deduzir": 35640 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 21.0, "parcela_deduzir": 125640 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 648000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 33.5 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.1, "IBS": 32.0 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 32.5 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 16.6, "IBS": 32.5 },
+        { "IRPJ": 4.0, "CSLL": 3.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 43.4, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 15.6, "IBS": 33.5 },
+        { "IRPJ": 35.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 30.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.5, "IBS": 0.0 }
+      ]
+    },
+
+    "IV": {
+      "descricao": "Serviços",
+      "ano": 2033,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 4.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 9.0, "parcela_deduzir": 8100 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 10.2, "parcela_deduzir": 12420 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 14.0, "parcela_deduzir": 39780 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 22.0, "parcela_deduzir": 183780 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 33.0, "parcela_deduzir": 828000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 18.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 21.5, "IBS": 44.5 },
+        { "IRPJ": 19.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 40.0 },
+        { "IRPJ": 20.8, "CSLL": 15.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 24.0, "IBS": 40.0 },
+        { "IRPJ": 17.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 23.0, "IBS": 40.0 },
+        { "IRPJ": 18.8, "CSLL": 19.2, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 22.0, "IBS": 40.0 },
+        { "IRPJ": 53.5, "CSLL": 21.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 0.0, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 25.0, "IBS": 0.0 }
+      ]
+    },
+
+    "V": {
+      "descricao": "Serviços",
+      "ano": 2033,
+      "faixas": [
+        { "faixa": 1, "receita_min": 0, "receita_max": 180000, "aliquota_nominal": 15.5, "parcela_deduzir": 0 },
+        { "faixa": 2, "receita_min": 180000.01, "receita_max": 360000, "aliquota_nominal": 18.0, "parcela_deduzir": 4500 },
+        { "faixa": 3, "receita_min": 360000.01, "receita_max": 720000, "aliquota_nominal": 19.5, "parcela_deduzir": 9900 },
+        { "faixa": 4, "receita_min": 720000.01, "receita_max": 1800000, "aliquota_nominal": 20.5, "parcela_deduzir": 17100 },
+        { "faixa": 5, "receita_min": 1800000.01, "receita_max": 3600000, "aliquota_nominal": 23.0, "parcela_deduzir": 62100 },
+        { "faixa": 6, "receita_min": 3600000.01, "receita_max": 4800000, "aliquota_nominal": 30.5, "parcela_deduzir": 540000 }
+      ],
+      "reparticao": [
+        { "IRPJ": 25.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 28.85, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 14.0 },
+        { "IRPJ": 23.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 27.85, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 17.0 },
+        { "IRPJ": 24.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 18.15, "IBS": 19.0 },
+        { "IRPJ": 21.0, "CSLL": 15.0, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 19.15, "IBS": 21.0 },
+        { "IRPJ": 23.0, "CSLL": 12.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 23.85, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 17.15, "IBS": 23.5 },
+        { "IRPJ": 35.0, "CSLL": 15.5, "COFINS": 0.0, "PIS": 0.0, "CPP": 29.5, "ISS": 0.0, "IPI": 0.0, "ICMS": 0.0, "CBS": 20.0, "IBS": 0.0 }
+      ]
+    }
+  }
+}
